@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25ca0e05-1a9d-4783-942b-e78eeaf95a43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/utils/axiosWithAuth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597540262332</updated>
-      <workItem from="1597540264076" duration="253000" />
+      <workItem from="1597540264076" duration="2351000" />
     </task>
     <servers />
   </component>
